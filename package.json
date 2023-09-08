@@ -1,0 +1,10 @@
+{
+  "name": "YamlDotNet.Unity",
+  "displayName": "YamlDotNet.Unity",
+  "version": "13.2.0",
+  "author": {
+    "name": "Maxim Epishev",
+    "email": "epishev.m@mail.ru"
+  },
+  "type": "library"
+}
